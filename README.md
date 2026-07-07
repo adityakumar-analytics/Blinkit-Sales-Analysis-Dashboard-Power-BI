@@ -8,12 +8,6 @@ The objective of this project is to practice data visualization, dashboard desig
 
 ---
 
-## 🚀 Dashboard Preview
-
-> *(Add a screenshot of your dashboard here)*
-
----
-
 ## 📈 Key Performance Indicators (KPIs)
 
 - 💰 Total Sales
