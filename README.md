@@ -90,9 +90,9 @@ The dataset contains information such as:
 
 ---
 
-## 📷 Dashboard
+## 📊 Dashboard Preview
 
-*(Insert Dashboard Screenshot Here)*
+![Blinkit Dashboard](BLINKIT%20DASHBOARD%20SNAPSHOT.png)
 
 ---
 
